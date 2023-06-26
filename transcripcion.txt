@@ -1,0 +1,797 @@
+en este vídeo Te voy a enseñar Cómo utilizar la Inteligencia artificial para ayudarte a crear un negocio de ecommerce
+0:05
+desde cero que te genere ingresos porque la oportunidad económica para los emprendedores no está tanto en lo que
+0:10
+ofrece esta potente tecnología sino en lo que haces con ella así que vamos al lío me voy a poner las gafas que llevo
+0:17
+muchos días de trabajo con la vista cansada vamos a ir por faena Así que voy a abrir chat 4 que es el de pago al
+Búsqueda del producto ganador
+0:23
+menos a día de hoy y lo voy a introducir el siguiente Chrome eres un marketer experto en ecommerce dame cinco ideas de
+0:29
+productos que sean ligeros solucionan un problema que tiene la gente en su día a día sean llamativos e ideales para hacer una tienda de dropshipping con ellos
+0:36
+vamos a utilizar el modelo de negocio de dropshipping únicamente para encontrar un producto validar lo que funciona y ya
+0:43
+luego en todo caso escalaríamos la tienda a marca privada importando ese producto y haciendo una distribución
+0:48
+desde donde te encuentres o desde almacenes externos para acelerar los tiempos de entrega y la experiencia al
+0:54
+usuario pero el dropshipping y siempre lo digo a día de hoy nos sigue siendo muy muy útil para poder validar
+1:00
+productos que funcionen si tienen o no tracción y la gente les interesa comprarlo y le pongo no hace falta que
+1:07
+los describas solo indica el nombre del producto Así que le vamos a dar enter
+1:14
+bien botella de agua plegable cargador portátil solar Ultra Delgado cremallera
+1:20
+de reparación este no lo conozco almohadilla de refrigeración para dispositivos móviles organizador de
+1:25
+cables magnético voy a este tercero porque es el único que no no he
+1:33
+visto voy a subrayarlo vale voy a abrir aliexpress
+1:39
+voy a pegar la dirección y vamos a buscar Qué productos nos aparecen fijaros aquí en esta sugerencia kit de
+1:46
+reparación de cremallera parece que es un producto buscado fijaros Aquí hay varios productos
+1:52
+tenemos este y este yo voy a por los más vendidos selecciono este y
+1:58
+fijaros es un producto que se ve con consistencia con un packaging esto siempre es algo que me gusta porque no
+2:04
+parece un producto propiamente de China que te vienen con bolsas de plástico cutre si no hay ese packaging dejarme
+2:11
+ver los envíos vale 0,78 a España y llega el 9 de junio
+2:17
+o sea unos 12 días hay otra opción de pago Aquí tienen un vídeo
+2:25
+vale Aparentemente es una especie cremallera universal que puede repararte
+2:31
+cremalleras valga redundancia rotas esto puede ser bastante Útil es ligero y sobre todo el precio es algo que me
+2:37
+gusta o sea 0,78 le envío más 2,09 nos deja muy buen margen y sobre todo poder
+2:44
+darle al producto una percepción de valor que tenga sentido en la cabeza la
+2:49
+gente comprarlo si hay un producto que por ejemplo cuando tú lo ves En una tienda es como yo no pagaría más de 50
+2:55
+euros por él y te lo están vendiendo a 100 jamás lo vas a comprar si tú eres un producto que tu valor percibido es
+3:01
+superior al que te están pidiendo Ahí es donde se genera una sensación de oferta y donde ves un buen deal el comprarlo
+3:08
+por tanto Este es un producto que Por así decirlo nos permite subir su precio y al menos a mi sensación el valor
+3:15
+percibido en el usuario se va a mantener dejándonos nuestro margen de beneficio a continuación vamos a pedirle a charge
+Naming de la marca
+3:21
+que nos encuentre un nombre de marca para este producto es un producto que creo que lo podemos intentar vender y
+3:27
+para ello le he puesto genera 8 ideas de nombre para la marca de una tienda online que venda un kit de reparación de cremalleras Universal El nombre debe ser
+3:34
+corto fácil de pronunciar y con gancho vamos a ello
+3:40
+difix Pro cremallera Master repara zip zipit United Solution rápido zip salvo a
+3:48
+cremalleras todo sin preparación Vale ahora lo que tenemos que hacer es
+3:55
+empezar a algunos de ellos fijaros como estos que son cortos y fáciles de pronunciar y buscar si están disponibles
+4:03
+El dominio One Daddy voy a pegar el primer dominio voy a buscarlo
+4:09
+vale zipfix Pro punto com está disponible bandas de movimiento dividido Y mira que no es fácil encontrar nombres
+4:15
+de palabra corta que tengan ritmo y estén disponibles vamos a probar el otro que me había gustado también vale Este
+4:22
+no está disponible solo el punto es para España me interesa tener el puntocom que es más internacional Así que creo que la
+4:28
+decisión Está Clara voy a volver y vamos a el otro dominio zifics Pro los otros no han acabado de convencer ahora
+Configuración cuenta shopify
+4:35
+lo que vamos a hacer es crear un mail de zipfix Pro que va a ser el que vamos a utilizar para crear una tienda online
+4:40
+vamos a utilizar enlace de shopify que os lo dejo en la descripción porque tenemos una promoción de abrir nuestra
+4:46
+tienda por un euro al mes simplemente introducimos nuestro correo fix fix Pro arroba gmail.com el que hemos creado
+4:53
+prueba gratis y empezamos aquí nos hace una pequeña encuesta bueno la podemos
+4:59
+contestar o simplemente omitir omitir todo venga adelantamos Dónde está
+5:05
+situado el negocio España aquí me vais a ver configurando la tienda así que dejarme un segundo para
+5:12
+configurarla
+5:21
+bien Ahora debemos seleccionar un plan de nuestra tienda de shopify tenemos
+5:26
+tres opciones la diferencia entre los planes básicamente es la comisión que vas a estar pagando de lo que se te van
+5:31
+a llevar al procesar el pago con procesadores de pago externos fijaros que el intermedio solo se llama un 1% y
+5:38
+el primer plan el más básico un 2% esto compensa cuando ya tienes un volumen y voy a el básico por ahora
+5:46
+y es recomendable pagar la versión anual porque te ahorras pues 108 euros en
+5:52
+comparación de hacer un pago mensual Así que yo voy a el anual y voy a confirmar ciclo de facturación y
+6:00
+voy a llenar estos Campos y luego voy a darle el método de pago Así que lo voy a
+6:05
+hacer muy rápido Listo ya he configurado mi tienda y
+6:11
+ahora toca escoger nuestro dominio que ya lo tenemos Claro que va a ser zip fix Pro puntocom que hemos revisado
+6:17
+previamente que el godaddy estaba disponible me voy a la sección de dominios de la tienda de shopify y voy a
+6:24
+darle a continuación a comprar un nuevo dominio pueda introducir
+6:34
+vale Ahí está disponible Y le doy a comprar
+6:39
+Vale pues esta información está correcta comprar dominio
+6:46
+no lo renova automáticamente porque esta tienda como la voy a estar exponiendo públicamente la voy a tener que cerrar porque si no van a ver 1000 tiendas
+6:52
+iguales comprado tengo que verificar el correo electrónico Así que lo voy a hacer muy
+6:58
+rápido ahora lo que vamos a hacer a continuación es diseñar un logo para nuestra tienda fijaros que en la sección
+Generación del logo con IA
+7:04
+de marca en la configuración tenemos que agregarlo voy a abrir una nueva pestaña y me voy a ir a
+7:10
+brandmark.io también Es una herramienta de Inteligencia artificial que permite generar a partir de palabras que le des
+7:16
+relacionadas con tu logo pues millones de opciones de logo hasta que des con una que te guste yo en este caso voy a
+7:22
+introducir voy a borrar esta si voy a introducir gadgets vale Voy a introducir zip y voy
+7:32
+a introducir repetir listo voy a darle continuar Voy a escoger la paleta de
+7:38
+colores azules yo creo que va a quedar mejor más suave más sutil para algo relacionado
+7:44
+con ropa accesorios está generando el logo
+7:50
+y ya me da múltiples opciones fijaros que aquí es la primera y a continuación puedo deslizar y hay infinidades o sea
+7:56
+puedo ir deslizando voy a esta segunda y ahora lo que voy a hacer es modificarla esto no va de
+8:02
+esto no va de bricolaje con lo que me voy a ir a edit
+8:09
+y voy a ir a icon s icon y buscar otro vamos a introducir
+8:17
+zip Buscar perfecto y voy a este
+8:23
+segundo mismo yo creo que está más que suficiente Y ahora lo que voy a hacer va a ser cambiar la paleta de colores voy a
+8:28
+unos Azules El verde no me gustaba demasiado y además hemos dicho que íbamos a trabajar sobre Azules El icono
+8:35
+también lo voy a poner azul y ahora voy a hacerle a los cutre un
+8:42
+screenshot a ver Ahí estamos perfecto
+8:47
+Ahora me voy a volver a la tienda No aquí no perdón Ahí estamos y voy a
+8:52
+agregar el logo subir imagen la captura misma pantalla que acabo de hacer a abrir
+8:58
+hasta aquí todo fácil y la Inteligencia artificial nos está ayudando bastante en el camino poco hemos tenido que pensar
+9:04
+solo ser bueno copiando y pegando bien pues ahí tenemos el logo y vamos al
+9:09
+siguiente paso me voy a la sección de políticas y es importante tener pues la política reembolso la política
+Creación de políticas con IA
+9:15
+privacidad para complementar con las normativas europeas y muchos de vosotros es algo que siempre me preguntáis oye
+9:21
+Bruno dónde saco las políticas bien pues chachinos lo solucionan me voy al chachipi voy a abrir un nuevo chat
+9:28
+puedo utilizar el 3.5 no importa genera una política
+9:34
+de reembolso para una tienda de
+9:39
+dropshipping llamada
+9:52
+el correo de contacto que es el que nos viene con la compra del dominio es info@
+10:00
+ipfixpro.com enter el 3.5 va muchísimo más rápido fijaros
+10:07
+ya nos está generando toda la política reembolso sí que es verdad que aquí hago un poquito de
+10:14
+responsabilidad revisaroslo Pero bueno yo para ir rápido y que se entienda el concepto voy a
+10:19
+copiar esta misma política me voy a volver a shopify y la voy a pegar listo y ahí pegamos vale Y voy a generar la
+10:29
+política privacidad lo mismo ahora crea la política
+10:35
+de privar y ya nos la está generando fijaros súper
+10:41
+rápido Insisto que son cosas a veces un poquito
+10:47
+delicadas que sería bueno que revisaseis pero por lo general también os digo que estas cosas tienen tanta información
+10:53
+chachitas webs con políticas de privacidad que dudosamente lo va a hacer mal es decir continúa esa parado ahí
+11:00
+también le podemos pulsar el botón si no se lo escribís Vale hasta aquí y ahora
+11:05
+voy a copiar y voy a pegar la política y voy a hacer lo mismo con todo el resto de políticas que hay bien Vamos al
+Importación producto
+11:12
+siguiente paso que va a ser importar nuestro producto en aplicaciones voy a introducir deserts esta aplicación de
+11:19
+aquí y la instalo muy bien estoy en el dashboard me voy a mala suscripción y
+11:24
+aquí es una aplicación que tenemos que seleccionar una suscripción Aunque hay la opción gratuita pero fijaros que en
+11:30
+las otras opciones Lo bueno es que tenéis el procesamiento de pedidos en grupo de forma que se procesen
+11:36
+automáticamente que esto era algo que conocerlo en su día Era realmente súper tedioso porque tenías que ir pedido por
+11:42
+pedido entonces en los planes que son de pago Esto lo puedes utilizar De todas formas yo voy a utilizar para enseñaros
+11:48
+el plan gratuito me voy a import list aquí fijaros y voy a darle import y
+11:54
+ahora voy a copiar el link del producto y lo voy a pegar aquí perfecto
+12:00
+me encuentro el producto selecciono puesto shopify ahora esto lo puedo dejar
+12:06
+así por defecto Olson Store para que se publique importar me lo está importando
+12:13
+genial importado ahora le podemos decir que importe las reviews
+12:19
+le doy a go to reviews y ahora voy a estar viendo todas las reviews bueno
+12:26
+primero tenía que configurar Cuántas reviews quiero importar Y en qué idioma voy a poner que lo transcriba español
+12:32
+traduzca y que coja solo las de cinco estrellas y de todos los países Leo ya previo importa y ahora voy a estar
+12:38
+teniendo que seleccionar cuales quiero y cuáles no
+12:48
+bien completa esta tarea me voy a volver a productos y fijaros que ya lo tengo importado clico y lo podemos ver en nuestra tienda es muy sencillo esto y lo
+12:56
+que sí el precio pues no lo he configurado me ha importado el propiamente aliexpress aquí están las reviews
+13:02
+bueno está el título tal cual del listing aliexpress por favor jamás dejéis el listing tal cual y las
+13:08
+especificaciones cambiar la descripción trabajarla y para eso nos va ayudar chatti esto lo tenemos que modificar
+13:14
+desde aquí y también cambiar el precio Así que le voy a dar a editar y voy a poner otro precio voy a poner 14,95 es
+13:23
+lo que os habla del valor percibido es un producto que perfectamente se puede vender por 1495 25 precio comparación
+13:29
+para que estén oferta y el envío lo vamos a dar gratis voy a refrescar y fijaros que como hay
+13:36
+dos variantes solo le he cambiado en esta en la del pack la que viene con 14,95 25 oferta
+13:43
+y todo esto hay que cambiarlo la otra variante la voy a eliminar solo me voy a quedar con la del packaging que es la única que me interesa vender ahora vamos
+Descripciones con IA
+13:49
+a ir a chachi vitti y vamos a generar las descripciones del producto así como el título algo también que a muchísima
+13:56
+gente le costaba un montón a mí él copia es algo que me encanta pero bueno que no se le da nada mal de hecho lo hace mucho
+14:03
+mejor en algunas ocasiones que gente que he tenido Incluso contratada en la agencia así avanza la tecnología fijaros
+14:10
+le pongo este Pro eres un experto copyright especializado en ecommerce genera una descripción persuasiva de un producto llamado civics Pro se trata de
+14:17
+un kit de cremalleras universales que le explico lo que es que puede reemplazar fácilmente a las ropas o
+14:23
+Esto bueno si utiliza la información y características indicadas a continuación para elaborar la descripción ahora lo
+14:28
+que voy a hacer es le voy a copiar la info del propio listing del Express y
+14:33
+Oye que lo trabaje automáticamente chachipití
+14:39
+voy a la descripción y fijaros que voy a copiar tal cual el título voy a volver y
+14:45
+se lo voy a pegar aquí vale Y ahora me voy a ir a copiar todas las
+14:51
+especificaciones del propio listing tal cual lo arrastró lo copio
+14:57
+y toda la información disponible que tenga el listing se la podéis meter a chachi pity para que la procese y la
+15:04
+trabaje le doy enter Y ahí empieza
+15:14
+Wala pues ya la tendríamos voy a ir a copiar la descripción si queréis podéis parar el vídeo y
+15:20
+leerla a mí me ha gustado Cómo ha quedado voy aquí voy a especificaciones borro todo esto
+15:28
+y pego la otra Perfecto aquí la tenemos voy a copiar el
+15:34
+título y lo voy a pegar justamente aquí
+15:40
+ok
+15:46
+lo voy a borrar del resto lo veo bien listo pues ya
+15:53
+tendríamos la descripción y título ahora lo que voy a hacer son unos segundos de customización de la tienda tampoco tiene
+Customización tienda y oferta
+15:59
+demasiado misterio mover algunos elementos jugar con los colores darle un toque un poquito más profesional
+16:05
+Aquí está el resultado fijaros yo he customizado un poquito la tienda he
+16:10
+agregado la descripción algunos gif que he encontrado buscando por internet sobre este producto y ahí tenéis la
+16:16
+reviews creo que ha quedado muy limpio he cogido gratuito y en la homepage he puesto
+16:23
+resucita esa ropa o accesorios que se quedaron invisibles y ahí e Index al producto nada una One product Store he
+16:30
+puesto también el menú una sección para localizar tu pedido que eso siempre da confianza powered by Track 1.3 que es
+16:36
+una aplicación me vuelvo a inicio y redirige al producto o sea todo me lleva al mismo producto y ahora lo que os
+16:41
+recomiendo Es que como justamente es una onep product Store una tienda que solo tiene un producto y el usuario que aterrice nuestra tienda no va a poder
+16:48
+comprar más de un Pues que al menos pongamos una quantiti ofer es decir que
+16:53
+le demos al usuario un descuento si compran más unidades de este mismo producto y además es un tipo de producto
+17:00
+que tiene sentido que puedan querer comprar más de un kit para ello podéis utilizar la aplicación si buscáis por
+17:07
+vandels with vanderer esta Band Perdón le dais
+17:12
+agregar app hay muchas pero a mí esta es una que personalmente me gusta y voy a
+17:17
+ir a Instalar aplicación está ahí cargando
+17:25
+perfecto doy a probar Tiene un plan gratuito de 14 días
+17:32
+y ahora lo que voy a hacer va a ser configurar la oferta Bueno antes Tengo
+17:37
+que activar el tema Perdón activar la aplicación fijaros que ya me queda aquí como el
+17:43
+widget activado vuelvo recargo y me queda insertado en la tienda y ahora voy
+17:48
+a Añadir la oferta le voy a dar al botón Añadir oferta selecciona el producto le voy a continuar al que se la Quiero
+17:53
+agregar y voy a configurar pues justamente la quantin offer
+18:09
+bien general generar ofertas y me muestra una previa y listo Muy bien
+18:16
+pues ya tendríamos configurado el bandle en nuestra tienda luego lo vamos a ver vamos a pasar antes ahora
+Creación de anuncios con IA
+18:22
+a generar un guión para nuestro anuncio en redes sociales algo que evidentemente
+18:28
+también le vamos a pedir a la Inteligencia artificial vamos a ello para ello lo voy a insertar el siguiente Chrome Si tuvieras que hacer un anuncio
+18:36
+para redes sociales de este producto con el objetivo de llamar la atención de los posibles compradores cómo sería
+18:47
+vale me está generando un posible copy para anuncio no el guión del vídeo voy a
+18:53
+tener que ser más específico vamos a esperar a que acabe bien he acabado voy a hacerle más
+18:59
+específico para que entienda lo que le está pidiendo pre para el guión
+19:05
+para un vídeo necesitamos publicar
+19:13
+sirva de anuncio
+19:19
+los planos que debería tener listo Ahí
+19:26
+va guión del vídeo ahora lo he entendido plano 1 plano general narrador estás
+19:31
+cansado de luchar con cremalleras rotas y atascadas planos primer plano una persona luchando con una cremallera rota
+19:37
+narrador estás pensando en deshacerte de tus prendas favoritas solo por una cremallera dañada plano 3 primer plano a
+19:44
+la persona soltando la prenda en un cesto de ropa Vale fijaros Nos está especificando al detalle Cómo tenemos que construir nuestro guión justamente
+19:51
+para captar la atención de un posible usuario yo voy a utilizar o Voy a intentarlo en el tiempo que tengo tratar
+19:58
+de montar un anuncio siguiendo exactamente sus especificaciones voy a dejar que acabe de prepararme el guión y
+20:04
+ahora empezaré a construir
+20:10
+vale me ha hecho bastantes planos quizá le debería haber indicado también el tiempo que quería que durase ese anuncio
+20:16
+estilo que dure 30 segundos máximo que para un producto Así es más que suficiente y se está pasando un poco de
+20:21
+sobrada Así que cogeré los planos que más crea convenientes y voy a empezar pues como decía no a
+20:27
+construir voy a empezar por el primer plano para ello lo que haré es irme a internet y Buscar de Dónde puedo sacar
+20:33
+esos vídeos puede ser de Galerías de stock como Story blocks Tenemos también vídeo elements o de YouTube mismo
+20:42
+fijaros si nos vamos a YouTube he puesto Breaker aquí y ya tenemos vídeos que me
+20:47
+podrían servir para justamente seguir ese guión que ha sugerido el Como por ejemplo este vídeo Bueno vamos a pasar
+20:52
+este anuncio esto Me imagino que no te hace strike no con los vídeos pero que
+20:58
+no veis fijaros por ejemplo este plano ahí podemos Mostrar justamente la frustración de tener una cremallera
+21:04
+atascada vale bueno esto ya no y con YouTube a mp4 lo puedo descargar fácilmente
+21:09
+cualquier vídeo que encuentre por YouTube Aunque os recomiendo Galerías de stock
+21:15
+que os den todos los derechos de comercialización de estas imágenes hay muchos más vídeos en fin yo lo que voy a
+21:21
+hacer es voy a buscar varios vídeos por internet y voy a tratar de componer ese vídeo
+21:26
+bien Ya he hecho la búsqueda de todos los planos y ahora en un rato os voy a enseñar Cómo ha quedado Pero justamente
+21:32
+lo que vamos a hacer ahora es la voz en off la narración que charge nos estaba
+21:37
+sugiriendo que pusiéramos por encima de esos planos y para ello nos vamos a ir a otra herramienta de Inteligencia artificial que se llama voice over
+21:45
+puntocom lo dejaré también en la descripción y fijaros que lo que he hecho ha sido insertarle justamente
+21:50
+copiar y pegar si es que no tiene demasiado misterio o sea cuando trabajas con Inteligencia artificial Solo tienes
+21:55
+que ser bueno con los dedos no control c control V pues le he copiado lo que me decía Chad que narrásemos sobre el
+22:02
+anuncio y fijaros que aquí en la derecha tenéis una sección con muchos con muchas voces yo voy a poner voces españolas y
+22:09
+fijaros que hacemos scroll vamos a buscar las españolas aquí están
+22:15
+tenemos de hombre de mujer yo he cogido la de Elías voz femenina lo considero óptimo para este producto fijaros que
+22:21
+aquí puedo escribir cualquier cosa Vale y te lo va a narrar la voz que hayas escogido le voy a dar Play solo para que
+22:28
+lo escuchéis estás cansado de luchar con cremalleras rotas o atascadas Y estás pensando en deshacerte de tus prendas
+22:34
+favoritas muy bien la verdad que muy natural no paré de una boda Inteligencia artificial de ahí que tantas
+22:40
+discográficas estén teniendo tanto miedo a que están apareciendo canciones de famosos Porque además hay otras
+22:46
+herramientas de Inteligencia artificial que te permiten clonar cualquier voz simplemente dándole previos audios de esa misma voz lo
+22:54
+podéis hacer con la vuestra pero el caso es que realmente si no te paras a
+23:00
+escuchar un detalle si no piensas que es inteligente artificial no lo parece Ahora nos vamos a ir a otra herramienta llamado Sandra o punto ayou como os
+23:06
+imaginaréis también de Inteligencia artificial que nos permite generar música música que no existe y por lo
+23:11
+tanto totalmente libre derechos de autor Esta es la web y
+23:18
+fijaros que permite crear música ilimitada voy a darle Play Toda esta música está generada por Inteligencia
+23:23
+artificial otra
+23:29
+otra por aquí creo que captáis la idea voy a irme al dashboard y me voy a ir a la sección de
+23:35
+ads y trailers que quiero que me generen música justamente para ello le he cargado el anuncio los planos desde
+23:42
+vídeo preview para poder ir reproduciendo la música y ver qué tal queda con el anuncio fijaros ya le
+23:48
+agregado la voz de luchar con cremalleras rotas o atascado lo que voy a hacer es voy a seguir probando músicas hasta dar con una que crea que encaje
+23:56
+pues ha llegado el momento de enseñaros cómo ha quedado el resultado de este anuncio 70% hecho con herramientas de
+24:03
+Inteligencia artificial el guión puramente con chachi pity la voz en off con otra Inteligencia
+24:09
+artificial con shify la música con Sandra o punto y la edición es lo único
+24:14
+que yo he hecho de forma manual por eso sí podríamos decir un 70% inteligente artificial y un 30% acción humana ahí
+24:22
+tenemos final Cut que es como yo edito y vamos a darle Play estás cansado de luchar con cremalleras rotas o atascadas
+24:28
+Y estás pensando en deshacerte de tus prendas favoritas esto te arreglará cualquier cremallera rota o atascada se
+24:35
+adapta a todo tipo de cremalleras las personas que viajan lo consideran su salvación
+24:41
+Solo tienes que retirar la estropeada y poner fácilmente La nuestra no necesitas coser ni utilizar
+24:48
+herramientas especiales deslízalo hasta fijarlo desde botas
+24:53
+bolsas ropa en caja en cualquiera Dale Nueva Vida a tu ropa y accesorios
+24:59
+hacemos envíos gratis a toda España Haz clic en el botón para conseguirlo Y
+25:04
+aprovechar el descuento del 40% [Música]
+25:10
+bien Esto último lo he hecho con canva este final como veis es un anuncio con bastante ritmo Dinámico que muestra muy
+25:17
+bien el producto la solución que probé y yo creo que ha quedado con un ritmo suficiente de una forma también
+25:24
+ciertamente como orgánica que no parece un anuncio como muy profesional y es el típico formato que suele funcionar muy
+25:29
+bien en las redes sociales sobre todo en tiktok instagram Facebook Incluso en
+25:34
+YouTube podría funcionar muy bien Yo haré una promoción rápida en Facebook cats para ver qué tal nos convierte todo
+25:40
+esto que hemos creado con ella ahí ahora vamos a ver cómo ha quedado la tienda que nos la ha enseñado fijaros ahí ha
+25:46
+quedado la banda El offer Bueno toda la descripción esto ya lo habíamos visto pero bueno queda bastante bien La offer
+25:52
+yo creo que puede generar un incremento del ticket en el carrito interesante vamos a ver qué tal me voy a Facebook
+Configurando Facebook Ads
+25:57
+cats voy a crear una nueva campaña y he creado una nueva cuenta publicitaria me voy a objetivo ventas le voy a dar a
+26:03
+continuar la configuración no la habéis visto como la he hecho de la cuenta pero alargaríamos demasiado el vídeo y
+26:09
+tampoco quiero eso la campaña fic fix Pro Cold Aliens
+26:18
+voy a darle Advanced Valle 2018 voy a ponerle 50 dólares al día de baches que
+26:24
+es lo que va a gastar esta campaña voy a darle a next voy a configurar el adset voy a seleccionar el Pixel que ya lo he
+26:31
+configurado voy a darle el evento de compra listo tiene la campaña ahí y ahora vamos
+26:37
+a hacer la segmentación de la audiencia a quién le vamos a mostrar nuestro anuncio edad localización género y
+26:43
+interés me voy a ir a chachi como no y se lo voy a preguntar qué segmentación
+26:50
+recomendarías para configurar la publicidad de este producto
+27:02
+adecuadamente en Facebook
+27:14
+vemos nuevamente hecha divide nos está entregando demografía intereses comportamiento geografía y local
+27:19
+audienses en el caso de utilizar es fuerte
+27:26
+y ahí nos da una última recomendación vale No te preocupes que no tener en
+27:32
+cuenta así que me voy a basar en lo que me ha indicado voy a un Rango de edad de 25 a 55 años
+27:39
+los intereses que ha puesto por aquí vale voy a volver vamos a edad voy a
+27:46
+empezar poniendo 25 lo voy a dejar en más 65 no no voy a ponerlo de 55 es
+27:52
+igual porque creo que hay gente más 65 le puede interesar este producto que están ahí más centrados en el lugar
+27:58
+intereses voy a costura Bueno voy a empezar por el de costura
+28:03
+vale Yo lo tengo puesto en inglés pero costura vale Sí sé wink Ahí es que lo
+28:09
+tengo configurado en inglés el Facebook selecciono esta opción Vale me da un alcance de 5 millones a 6
+28:16
+voy a también el comportamiento que decía segmentar usuarios que han demostrado comportamiento de compra
+28:21
+online al pasado es decir bueno perdón ahí de toda la vida shoppers de final y
+28:33
+listo selecciona esa opción ahí la tenemos y fijaros cómo se ha reducido el target de audiencia de un de 5 millones
+28:40
+a un millón y medio voy a cambiar los idiomas quiero que solo se lo enseñe a gente que hable español
+28:46
+no España no español todos ahí estamos y
+28:51
+placement lo voy a dejar en automático Sí yo creo que todo está bien configurado Vamos a darle a continuar y
+28:57
+vamos a configurar el creativo propiamente el anuncios pro es la página de Facebook con la que voy a estar mostrando el
+29:04
+anuncio voy a crear un anuncio y voy a cargar el contenido multimedia le voy a dar que es un vídeo le voy a Blood le
+29:11
+voy a cargar de este el ordenador el anuncio que ya renderizado le voy a abrir y me lo empieza a cargar
+29:18
+bien me voy a continuar o va cargando está 70
+29:23
+No 100% ya está listo aquí vemos los distintos placements lo podríamos adaptar por tamaño reemplace o
+29:30
+reemplazar dependiendo del placement para Store y poner un formato vertical aún así lo podemos dejar y se adaptará y
+29:37
+fijaros que ahí podemos ver una previa veis así quedará en Story es decir no ocupará al 100% de la pantalla el resto
+29:43
+lo guardará para el texto y lo mostrará sin Story estás cansado de luchar con cremalleras
+29:49
+rotas o atascadas Y estás pensando en deshacerte de tus prendas favoritas esto te arreglará cualquier cremallera rota o
+29:55
+atascado mientras se acaba de procesar y vale Sí que es verdad que tenemos
+30:02
+algunos placements que no admite vídeo para aquí tenemos que llenar al primer y
+30:08
+text headline descripción Esto se lo vamos a abrir lógicamente desde aquí voy
+30:13
+a Añadir el enlace de de el producto listo
+30:19
+y por el resto de cosas está todo bien si no estoy dejando nada para Locos
+30:26
+decía hay algunos que lo podéis ver aquí como el de Instagram
+30:31
+Pues que hay que cambiar el tipo de contenido tenemos que poner una imagen
+30:37
+porque no permite vídeo pero me genera una especie zoom en a partir del vídeo que le he cargado le voy a seleccionar esta imagen mismo la podría cambiar o
+30:43
+podría subir una personalizada ahí ya queda bien Le voy a guardar voy a hacer lo mismo con la bueno podéis ver la
+30:49
+previa la instagramer Explore homepage voy a seleccionar esa misma imagen ahí queda
+30:55
+bueno que me diga qué error cuando lo procese ya va a estar bien o sea se ha cargado correctamente a veces falla
+31:01
+Facebook y el resto de premios está bien todo esto placements Instagram Stories
+31:07
+queda limpio queda bien me gusta me gusta cómo queda
+31:13
+con tu action voy a dejar el liener More que es saber más
+31:19
+vale el resto de cosas está bien vamos ahora al primer y text y esta descripción que le vamos a poner al
+Copy Facebook Ads
+31:25
+anuncio Así que se lo voy a pedir a chachipití para ello vamos a poner el siguiente Chrome genera un copy llamativo y persuasivo para acompañar al
+31:33
+vídeo anuncio en Facebook no incluyas párrafos muy largos céntrate en el punto de dolor que resuelve el producto y en
+31:39
+los posibles puntos de venta es importante que el copy cumpla con las políticas de Facebook ads vale eso se lo
+31:44
+podéis decir y va bastante bien para que no rechacen el anuncio Así que nada le voy a dar enter
+31:53
+y ahí lo empieza a generar suele poner muchos emojis Cuando le pides descripciones de Facebook Esto es algo
+32:00
+que luego podéis bueno podéis vosotros mismos eliminar los emojis que no queráis convenientes
+32:07
+vale Ya lo tenemos Así que voy a copiar la descripción
+32:12
+Ahí estamos copiar y me voy a ir a primary text y voy a pegarla
+32:18
+esto lo voy a borrar este emoji este otro emoji también fuera y este otro
+32:27
+vamos a generar ahora otra descripción pero con la variante de que tenga un
+32:32
+punto de humor Así que le voy a pedir justamente vuelve a hacer la descripción
+32:41
+la descripción Pero dale un punto de humor ahí estamos
+32:48
+tus cremalleros decidieron jubilarse antes que tú no las dejes arruinar tu estilo con civics pro ponemos a esas
+32:54
+cremalleras rebeldes en su lugar estás bastante bien ya sea que ya sea en tus jeans favoritos o en esa mochila de la
+32:59
+suerte prepara cualquier cremallera en un abrir y cerrar de ojos pero tan fácil de usar que te preguntarás Por qué no te
+33:05
+convertiste en un reparador de cremalleras profesional porque a veces la vida es demasiado corta para andar peleando con cremalleras voy a copiar
+33:12
+Está bien me gusta me gusta ya está ahí va copiado copiar vamos a Facebook voy a pegar esta
+33:19
+otra descripción para que final lo que quiero es que Facebook pruebe entre varias descripciones A ver cuál es la
+33:24
+que mejor funciona va a estar probando y según métricas va a estar mostrando insisto aquella que más convierta que
+33:31
+más ctr tenga impresión versus clic con el cliente esto lo voy a sacar
+33:37
+bien y ahora me voy a ir a chachipitín y le voy a pedir genera
+33:42
+cinco gel Lines para el producto genera 5g para el
+33:51
+producto ahí fijaros que podemos Añadir hasta 5 Vamos a darle enter
+33:59
+y adiós a las cremalleras rotas para siempre con esta solución Revolucionaria tu cremallera se ha roto descubre el
+34:05
+truco que los sastres no quieren que sepas este es brutal conviértete en el Héroe de tus prendas con este artículo
+34:11
+mágico lo de mágico me chirrirá un poco salva tu ropa favorita de tu de la jubilación anticipada descubre como aquí
+34:17
+me gusta vamos a empezar por el primero vamos a copiarlo
+34:25
+di Adiós las prendas Ahí vamos a copiarlo vamos a volver a Facebook vamos a pegarlo
+34:31
+listo vamos a Añadir otro
+34:42
+Así que eso no nos queda darle a publicar y listo
+34:48
+se está publicando 3 de 3 pues ya Sólo nos quedaría chicos esperar
+34:55
+Vamos a darle unas 24 horas más o menos y en 24 horas vamos a ver qué tal los
+35:02
+resultados fijaros que haya quedado voy a cerrar Esto está procesando sale como inactivo pero es que está procesando el
+35:09
+anuncio fijaros y en cuanto ya se ponen revisión y a todos se pondrá en revisión
+35:14
+vale lo dicho vamos a darle 24 horas y vemos qué tan buenos han sido los resultados de una tienda creada el 70%
+35:22
+utilizando Inteligencia artificial Bueno pues ya han pasado unas 24 horas
+Los resultados obtenidos
+35:28
+Bueno en realidad un poquito menos no llegamos a 24 horas no 22 Ahora nos
+35:33
+quedaremos más o menos bueno dejadme que os enseñe Cuáles han sido los resultados dejarme que baje Esto está trabajando
+35:39
+esto de aquí es parte voy a sacar Ahí estamos vale Mira Facebook y os voy a enseñar los
+35:48
+resultados dejarme hacer un Represa aquí bien lleva gastado 41 dólares de los 50
+35:56
+dólares de presupuesto que le puse total unas 5.000 personas de alcance y 5.000 y pico
+36:05
+de impresiones Vamos a la tienda de shopify han entrado 5 pedidos uno no sé por qué en riesgo
+36:10
+sopas a veces Hazme que baje esto sé del alto riesgo habría que cancelarlo
+36:16
+informes y hemos facturado unos 94,75 euros
+36:22
+Bueno ahí veis las métricas 149 sesiones voy a ir aplicaciones voy a irme a
+36:28
+deserts y esperar mientras se carga
+36:34
+vamos a open orders vamos a hacer el cálculo de cuánto es el
+36:39
+beneficio mañana my products porque quiero en un segundo a ver el precio del producto en el Express pero
+36:47
+A ver espérate ahí vale vamos a ir a el packaging más el
+36:55
+envío 0,78 desde que tarda unos 15 días añadirlo a la cesta solo para tener el
+37:00
+punto de referencia que no recuerdo de 2,88 vale con el envío 2,88
+37:08
+Y tenemos un kit un kit dos kits dos kits un kit
+37:14
+vale esto Si no los cálculos suma 7 7 unidades vendidas voy a caldo
+37:20
+calculadora 7
+37:26
+por 2,88 es igual a vale 20,16 es el coste
+37:32
+del producto me voy a borrar esto hemos facturado
+37:37
+94,75 vale perfecto 94,75 menos
+37:44
+20,16 que es el coste del producto y ahora menos el coste de publicidad que hemos gastado en este momento 41,98
+37:53
+vale me voy aquí 41 coma 98
+37:59
+es igual a 32,61 dólares de profit bueno tenemos
+38:07
+ahí euros y Dólares mezclados pero bueno Más o menos sí unos 30 euros de
+38:12
+beneficio da un pelín menos esto sin contar impuestos pero a lo que voy es no
+38:18
+está nada mal o sea sorprendentemente yo mientras estaba trabajando durante el
+38:23
+día de hoy he ido viendo que iban entrando ventas y porque normalmente siempre estamos muy
+38:29
+acostumbrados nosotros a tomar las decisiones de Qué producto vendemos Y al menos la decisión del producto nunca la
+38:37
+había dejado hasta ahora que decido hacer este vídeo experimento en manos de la Inteligencia artificial sí que es
+38:42
+verdad que la última decisión la tomo yo Pero al menos el producto ese la idea me
+38:47
+la dio realmente y ahí Bueno pues encontré un producto con un packaging interesante y que parecía que cumplía
+38:53
+mis estándares que yo siempre he tenido a la hora de buscar un producto y empezar a validarlo con dropshipping Y
+La real oportunidad con la IA
+39:00
+es que si bien Es verdad que a día de hoy la ia no es tan potente como para sustituir el 100% del trabajo de los
+39:07
+humanos ya lo habéis visto y sigue requiriendo de mucha intervención humana O al menos lo que hemos visto Durante
+39:13
+este vídeo para poder crear un negocio online en unos dos a tres años y yo creo
+39:19
+que si Seguimos avanzando tan rápido podría llegar el momento en el que simplemente le diéramos un objetivo
+39:25
+estilo crea un negocio y Commerce y directamente te lo hiciera todo la
+39:31
+Inteligencia artificial en unos dos minutos porque al final sería que además está autopity pero sería encadenar
+39:38
+procesos simplemente y realmente no hay que emocionarse no es como Esto va a ser
+39:45
+brutal pulsando un botón vas a tener un negocio y Commerce chicos ese se
+39:50
+convertirá en el peor momento de la historia para emprender y hacer negocios cuando eso pase todo el mundo lanzará
+39:58
+sus tiendas online Y entonces estarás tratando de competir con cientos por no
+40:04
+decir millones de negocios creados con Inteligencia artificial que insisto estarán compitiendo entre sí verás Al
+40:12
+final todo en la vida siempre tiene una pequeña ventana oportunidad esto ha pasado siempre y ahora está pasando en
+40:19
+la era digital por lo tanto debes ser muy consciente que hay esta pequeña
+40:24
+ventana oportunidad en el tiempo unos dos a tres años donde la Inteligencia artificial todavía no es suficientemente
+40:30
+potente como para crearte 10 millones de competidores directos contra tu negocio y es algo que tienes que aprovechar y la
+40:38
+realidad es que dentro de esta ventana que ahora tenemos existen muchas oportunidades pensad si no en la
+40:44
+cantidad de negocios que todavía no tienen ni idea de cómo usar chachipití por ejemplo entre muchas otras
+40:51
+herramientas que hay ahí fuera que son brutales y que podrían ayudarles a aumentar su productividad y sus
+40:57
+beneficios Así que si te interesa realmente sacar el partido a toda esta tecnología y este tren he creado
+41:03
+una formación sobre las oportunidades que hay con la Inteligencia artificial y como nosotros la estamos utilizando en
+41:09
+la agencia a día de hoy para sacarle el máximo partido exprimir todo su cubo esta formación la encontrarás dentro de
+41:15
+mentorial una plataforma educativa que busca ofrecer nuevas formaciones todos los meses a sus miembros por una muy
+41:21
+baja cuota al mes menos de hecho de lo que te cuesta el gimnasio hay que entrenar los músculos pero también la
+41:27
+mente y para mí mentoriales es el gimnasio de lo que es tu cartera además ahí no solo estaré yo sino que están por
+41:34
+venir formaciones increíbles de la mano de gente que realmente está teniendo muy buenos resultados ya que ese es el
+41:39
+filtro que pone Sí o sí mentorial para que puedas ser instructor ahí dentro y es que tengas resultados probados y
+41:47
+demostrados con aquello que sea que enseñas Así que te voy a dejar justo en la descripción de este vídeo un enlace
+41:52
+para que le puedas dar un vistazo sin ningún tipo de compromiso y si te interesa entrar Pues nos veremos dentro de la formación de Inteligencia
+41:58
+artificial donde de verdad te prometo que te haré explotar la cabeza si te da flipado este vídeo esa formación te va a
+42:06
+alucinar Así que poco más sea como sea nos veamos en la formación o en el próximo vídeo te veo pronto
+
