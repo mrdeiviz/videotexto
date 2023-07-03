@@ -1,0 +1,796 @@
+In this video I am going to teach you how to use artificial intelligence to help you create an ecommerce business 
+0:05 
+from scratch that generates income because the economic opportunity for entrepreneurs is not so much in what 
+0:10 
+this powerful technology offers but rather in what you do with it so let's get down to business I'm going to put on the glasses that I'm wearing 
+0:17 
+many days of work with my eyes tired we're going to go to work So I'm going to open chat 4 which is the paid one to 
+Search for winning product 
+0:23 
+less as of today and I will introduce it in the next Chrome you are an expert ecommerce marketer give me five ideas of 
+0:29
+products that are lightweight solve a problem that people have in their day to day be eye-catching and ideal to make a dropshipping store with them 
+0:36 
+we are going to use the dropshipping business model only to find a product validate what works and and 
+0:43 
+then in any case we would scale the store to a private label importing that product and making a distribution 
+0:48 
+from where you are or from external warehouses to speed up delivery times and the user experience 
+0:54 
+but dropshipping and I always say it to this day it is still very very useful to be able to validate 
+1:00
+products that work whether or not they have traction and people are interested in buying it and I put it there you don't need to describe them 
+1:07 
+just indicate the name of the product So we're going to give you enter 
+1:14 
+well collapsible water bottle solar portable charger Ultra Thin zipper 
+1:20 
+repair this I don't know about it cooling pad for mobile devices organizer of 
+1:25 
+magnetic cables I'm going to this third one because it's the only one I haven't seen 
+1:33 
+I'm going to underline it ok I'm going to open aliexpress 
+1 :39 
+I am going to paste the address and we are going to look for what products appear to us, look here in this suggestion kit of 
+1:46
+zipper repair it seems that it is a sought-after product, look here there are several products 
+1:52 
+we have this and this I go for the best sellers I select this and 
+1:58 
+look at it is a product that looks consistent with a packaging this is always something which I like because it doesn't 
+2:04 
+it seems like a product from China that comes with seedy plastic bags if there isn't that packaging let me 
+2:11 
+see the shipments are worth 0.78 to Spain and arrive on June 9 
+2:17 
+or it is about 12 days there is another payment option Here is a video 
+2:25 
+ok Apparently it is a kind of universal zipper that can repair you 
+2:31
+broken zippers worth redundancy this can be quite useful it is light and above all the price is something that I like 
+2:37 
+that is 0.78 I send you more 2.09 leaves us a very good margin and above all to be able 
+2:44 
+to give to the product a perception of value that makes sense in the head of 
+2:49 
+people buy it if there is a product that, for example, when you see it in a store is like I would not pay more than 50 
+2:55 
+euros for it and they are selling it to you 100 you will never buy it if you are a product that your perceived value is 
+3:01 
+higher than what they are asking for. That is where a sensation of offer is generated and where you see a good deal to buy it 
+3:08
+Therefore, this is a product that, so to speak, allows us to raise its price and, at least in my opinion, the perceived value of 
+3:15 
+in the user is going to be maintained, leaving us our profit margin. Next, we are going to ask charge 
+Naming of the brand 
+3:21 
+to find us a brand name for this product, it's a product that I think we can try to sell and 
+3:27 
+for this I've given it, it generates 8 brand name ideas for an online store that sells a repair kit of Universal zippers The name must be 
+3:34 
+short easy to pronounce and with a hook let's get to it 
+3:40 
+difix Pro zipper Master repair zip zipit United Solution quick zip save 
+3:48
+zippers all without preparation Ok now what we have to do is 
+3:55 
+start some of them look like these that are short and easy to pronounce and search if they are available 
+4:03 
+The One Daddy domain I am going to paste the first domain I am going to look for it 
+4:09 
+ok zipfix Pro dot com is available divided motion bands And look it's not easy to find 
+short word names 
+4:15 that have rhythm and are available let's try the other one that I liked also ok This 
+4:22 
+it is not available only the dot is for Spain I am interested in having the dotcom that is more international So I think the 
+4:28
+The decision is clear I'm going to go back and go to the other zifics Pro domain the others haven't finished convincing now 
+Shopify account setup 
+4:35 
+what we're going to do is create a zipfix Pro email that's going to be the one we're going to use for create an online store 
+4:40 
+we are going to use the shopify link that I leave in the description because we have a promotion to open our store for one euro a month 
+4:46 
+we simply enter our email fix fix Pro at gmail.com which we have created 
+4:53 
+free trial and we start here it makes us a small survey well we can answer it 
+4:59 
+or simply skip skip everything come on ahead Where is it 
+5:05
+located the Spain business here you are going to see me configuring the store so give me a second to 
+5:12 
+configure it 
+5:21 
+good Now we must select a plan from our shopify store we have 
+5:26 
+three options the difference between the plans is basically the commission that you are going to be paying of what you are going to take 
+5:31 
+when processing the payment with external payment processors, notice that the intermediate is only called 1% and 
+5:38 
+the first plan, the most basic, 2% this it compensates when you already have a volume and I go to the basic one for now 
+5:46 
+and it is advisable to pay the annual version because you save 108 euros in 
+5:52
+comparison of making a monthly payment So I go to the annual one and I'm going to confirm the billing cycle and at 
+6:00 
+I'm going to fill out these fields and then I'm going to give you the payment method So at 
+6:05 I'm going 
+to do it very quickly Done I've already configured my store and 
+6:11 
+now it's time to choose our domain, we already have it Of course it's going to be zip fix Pro dotcom, which we've previously reviewed 
+6:17 
+Godaddy was available, I'm going to the domains section of the store shopify and I'm going to 
+6:24 
+click on to buy a new domain you can enter 
+6:34 
+ok There it is available And I click to buy 
+6:39 
+Ok so this information is correct buy domain
+6:46 
+it doesn't automatically renew it because this store, as I'm going to be exposing it publicly, I'm going to have to close it because if they're not going to see 1000 stores 
+6:52 
+I have to verify the email so I'm going to do it very 
+6 :58 
+quick now what we are going to do next is to design a logo for our store notice that in the section 
+Generation of the logo with brand AI 
+7:04 
+in the configuration we have to add it I am going to open a new tab and I am going to go at 
+7:10 
+brandmark.io is also an artificial intelligence tool that allows you to generate from words that you give it 
+7:16
+related to your logo, well, millions of logo options until you find one that you like, in this case I'm going to 
+7:22 
+enter I'm going to delete this if I'm going to introduce gadgets okay I'm going to enter zip and I'm going 
+7:32 
+to enter repeat ready I'm going to continue I'm going to choose the palette of blue colors 
+7:38 
+I think it will look better softer more subtle for something related 
+7:44 
+with clothing accessories is generating the logo 
+7:50 
+and it already gives me multiple options take a look here is the first one and then I can slide and there are infinities, that is, 
+7:56 
+I can slide, I go to this second one and now what I'm going to do is modify it, this doesn't go from 
+8:02
+this is not going to be DIY so I'm going to go to edit 
+8:09 
+and I'm going to go to icon s icon and look for another one we're going to enter 
+8:17 
+zip Search perfect and I'm going to this 
+8:23 
+second myself I think it's more than enough And now what I'm going to do is change the color palette I'm going to 
+8:28 
+some Blues I didn't like green too much and we also said that we were going to work on Blues The icon 
+8:35 
+I'm going to do it too turn blue and now I'm going to give the shabby a 
+8:42 
+screenshot Let's see There we are perfect 
+8:47 
+Now I'm going to go back to the store No here no sorry There we are and I'm going to 
+8:52
+add the logo upload image the screenshot same screen that I just did to open 
+8:58 
+so far everything is easy and artificial intelligence is helping us a lot along the way we haven't had to think much 
+9:04 
+just be good at copying and pasting well well there We have the logo and we're going to 
+9:09 
+the next step I'm going to the policies section and it's important to have the refund policy the policy 
+Creating policies with AI 
+9:15 
+privacy to complement European regulations and many of you is something that You always ask me, hey 
+9:21 
+Bruno, where do I get the policies, well, chachinos solve it, I'm going to the chachipi, I'm going to open a new chat 
+9:28
+I can use 3.5, it doesn't matter, it generates a 
+refund policy 
+9:34 for a 
+dropshipping store called 
+9:39 
+9:52 
+The contact email that comes with the purchase of the domain is info@ 
+10:00 
+ipfixpro.com enter the 3.5 goes much faster look at you 
+10:07 
+it is already generating all the reimbursement policy yes it is true that here I do a little bit of 
+10:14 
+responsibility check it out But hey I to go fast and to understand the concept I go to 
+10: 19 
+copy this same policy I'm going to go back to shopify and I'm going to paste it ready and we'll paste it there okay And I'm going to generate the 
+privacy policy the same now create the policy 
+10:29 
+10:35 
+to deprive and it is already generating it for us, look super fast 
+10:41 
+I insist that things are sometimes a little 
+10:47 
+delicate that it would be good for you to review but generally I also tell you that these things have so much information 
+10:53 
+little girls websites with privacy policies that will undoubtedly do it wrong, that is to say, continue that one standing there 
+11:00 
+we can also press the button if you don't write it to them Okay until here and now 
+11:05 
+I'll go to copy and I'm going to paste the policy and I'm going to do the same with all the rest of the policies that there are. Let's go to 
+product import 
+11:12
+The next step is going to be to import our product into applications. I'm going to introduce deserts this application from 
+11:19 
+here and I install it very well I'm in the dashboard I'm going to bad subscription and 
+11:24 
+here is an application that we have to select a subscription Although there is the free option, but notice that the other options are at 
+11:30 
+. The good thing is that you have the processing of group orders so that they are processed automatically 
+at 11:36 
+, which was something you knew about in its day. It was really super tedious because you had to go requested by 
+11:42 
+requested then in the plans that are paid You can use this In any case, I am going to use it to show you 
+11:48
+the free plan I'm going to import list here look and I'm going to click import and 
+11:54 
+now I'm going to copy the link of the product and I'm going to paste it here perfect 
+12:00 
+I find the product I select shopify post now I can leave this 
+12 :06 
+like this by default Olson Store for it to be published import is importing it to me 
+12:13 
+great imported now we can tell it to import the reviews 
+12:19 
+I click go to reviews and now I'll be seeing all the reviews good 
+12: 26 
+first I had to configure how many reviews I want to import and in what language I am going to put it to transcribe Spanish 
+12:32
+translate and take only the five-star ones and from all the countries I read before it matters and now I'm going to be 
+12:38 
+having to select which ones I want and which ones I don't 
+12:48 
+well, complete this task, I'm going to go back to products and see what I already have it imported click and we can see it in our store it is very simple this and what 
+12:56 
+yes the price because I have not configured it I have imported the aliexpress itself here are the reviews 
+13:02 
+well the title is as it is of the listing aliexpress please never leave the listing as it is and at 
+13:08 
+specifications change the description to work on it and for that chatti will help us we have to modify this 
+13:14
+from here and also change the price So I'm going to edit it and I'm going to put another price I'm going to put 14.95 is 
+13:23 
+what tells you about the perceived value is a product that can perfectly be sold for 1495 25 price comparison 
+13:29 
+so that they are on offer and we are going to give it free shipping I am going to refresh and notice that as there are 
+13:36 
+two variants I have only changed it in this one in the pack the one that comes with 14.95 25 offer 
+13: 43 
+and all this has to be changed I'm going to eliminate the other variant, I'm just going to keep the packaging one, which is the only one I'm interested in selling, now let's go Descriptions 
+with AI 
+13:49
+to go to chachi vitti and we are going to generate the descriptions of the product as well as the title, something also that a lot of 
+13:56 
+people had a hard time copying it is something that I love but hey, he's not bad at all in fact he does it a lot 
+14:03 
+better on some occasions than people I've had Even hired at the agency that's how technology advances look at you 
+14:10 
+I put this Pro on it you are an expert copyright specialized in ecommerce generate a persuasive description of a product called civics Pro se It's about 
+14:17 
+a universal zipper kit that I explain what it is that can easily replace clothes or 
+14:23
+This is good if you use the information and characteristics indicated below to elaborate the description now 
+what I am going to do is 
+14:28 I am going to copy the info from the Express listing itself and 
+14:33 
+Hey let it work automatically chachipití 
+14:39 
+I'm going to the description and notice that I am going to copy the title as it is I am going to return and 
+14:45 
+I am going to paste it here okay And now I am going to go copy all the 
+14:51 
+specifications of the listing itself as it was dragged I copy it 
+14:57 
+and all the available information that the listing has, you can put it in chachi pity so that it processes it and at 
+15:04 
+work, I press enter And there it starts 
+15:14
+Wala, well, we would have it now, I'm going to copy the description if you want, you can stop the video and 
+15:20 
+read it I liked it How it turned out I'm going here I'm going to the specifications I delete all this 
+15:28 
+and paste the other one Perfect here we have it I'm going to copy the title 
+15:34 
+and I'm going to paste it right here 
+15:40 
+ok 
+15:46 
+I'm going to delete the rest I see it well ready because 
+15:53 
+​​we would have the description and title now what I'm going to do are some seconds of customization of the store does not have 
+customization store and offer 
+15:59  
+too much mystery move some elements play with the colors give it a little more professional touch
+16:05 
+Here is the result look at you I have customized the store a little I have 
+16:10
+I added the description of some gifs that I found searching the internet about this product and there you have the 
+16:16 
+reviews I think it has been very clean I have taken it free and on the homepage I have put it 
+16:23 
+resurrect those clothes or accessories that remained invisible and there and Index to the product nothing a One product Store I have 
+16:30 
+also put the menu a section to locate your order that always gives confidence powered by Track 1.3 which is 
+16:36 
+an application I go back to the start and it redirects to the product that is everything leads me to the same product and now what I  
+16:41
+recommend is that since it is precisely an onep product store, a store that only has one product and the user who lands in our store will not be able to 
+16:48 
+buy more than one Well, at least we put a quantity ofer that is to say 
+that 
+16:53 we give the user a discount if they buy more units of this same product and it is also a type of product 
+17:00 
+which makes sense that they may want to buy more than one kit for this you can use the application if you search for 
+17:07 
+vandels with vanderer this Band Sorry you give it 
+17:12 
+add app there are many but this is one that I personally like and I'm going to 
+17:17 
+go to Install application it's there loading 
+17:25 
+give it a try. It has a 14- 
+free 
+18:22 
+and now what I'm going to do is configure the offer Well before I have 
+17:37
+I have to activate the theme Sorry, activate the application, notice that I am here as the 
+17:43 
+widget activated, I come back, I recharge and it remains inserted in the store and now I go 
+17:48 
+to Add the offer, I am going to click on the Add offer button, select the product I will continue to the one I want 
+17:53 
+add and I will configure the quantin offer 
+18:09 
+well general generate offers and it shows me a preview and that's it Very good 
+18:16 
+well we would already have configured the bandle in our store later we will see it we will go ahead now 
+Creating ads with AI 
+to generate a script for our ad on social networks something that obviously 
+18:28
+We are also going to ask Artificial Intelligence for this I am going to insert it in the following Chrome If you had to make an ad 
+18:36 
+for social networks of this product with the aim of attracting the attention of potential buyers, what would it be like 
+18 :47 
+ok it's generating a possible ad copy not the script of the video I'm going to 
+18:53 
+have to be more specific we're going to wait for it to finish well I'm done I'm going to make it more specific 
+18:59 
+so you understand what it's about requesting pre for the script 
+19:05 
+for a video we need to publish 
+19:13 
+the plans that should be ready there 
+19:26 
+serve as an announcement
+19:19 
+19:58
+goes video script now i got it shot 1 wide shot narrator are you 
+19:31 
+tired of struggling with broken and stuck zippers close-up shot of a person struggling with a broken zipper 
+19:37 
+narrator are you thinking of getting rid of your favorite clothes just for one damaged zipper shot 3 close-up at 
+19:44 
+the person dropping the garment in a laundry basket It's worth looking at He is specifying us in detail How we have to build our script exactly 
+19:51 
+to capture the attention of a possible user I am going to use or I'm going to try it in the time I have trying 
+20:04
+I'm going to let him finish preparing the script and 
+now I'll start building 
+20:10 
+okay, he's done quite a few plans for me, maybe I should have also told him how long I wanted that ad to last 
+20:16 
+style that It lasts a maximum of 30 seconds for a product This is more than enough and it's going a bit beyond 
+20:21 
+So I'll take the plans that I think are most convenient and I'm going to start, as I said no at 
+20:27 
+to build, I'm going to start with the first plan for it what I will do is go to the internet and look for where I can get 
+20:33 
+These videos can be from Stock Galleries such as Story blocks We also have video elements or from YouTube itself 
+20:42 
+Check if we go to YouTube I have put Breaker here and we already have videos that I
+These videos can be from Stock Galleries such as Story blocks We 
+20:47 
+They could be used to precisely follow that script that he has suggested 
+. that doesn't strike you, not with the videos but that 
+20:58 
+you don't see, look at this plane for example, there we can show just the frustration of having a zipper stuck 
+21:04 
+okay, well, not anymore and with YouTube to mp4 I can easily download it 
+21 :09 
+any video you find on YouTube Although I recommend Stock Galleries 
+21:15 
+give you all the commercialization rights of these images there are many more videos anyway I'm going to 
+21:21 
+is I am going to look for several videos on the internet and I am going to try to compose that video 
+21:26 
+well I have already done the search for all of them the plans and now in a while I'm going to show you how it turned out But precisely 
+21:32 
+what we're going to do now is the voice-over the narration that charged us was 
+21:37 
+suggesting that we put those plans above and for that we are going to go to another artificial intelligence tool called voice over 
+21:45 
+dotcom I will also leave it in the description and notice that what I have done has been to insert it precisely 
+21:50
+copy and paste if it doesn't have too much mystery, that is, when you work with artificial intelligence You just have to  
+21:55
+be good with your fingers no control c control V well I copied what Chad told me to narrate about the 
+22:02 
+announcement and notice that here on the right you have a section with many with many voices I am going to put Spanish voices and 
+22:09 
+notice that we are scrolling we are going to look for the Spanish ones here they are 
+22:15 
+we have a man of a woman I have taken the one of Elías female voice lo I consider optimal for this product notice that 
+22:21 
+here I can write anything Ok and the voice you have chosen will narrate it to you I will give it Play just so that 
+22:28
+listen to it you are tired of fighting with broken or stuck zippers And you are thinking of getting rid of your favorite clothes 
+listen to a detail if you don't think it's artificial intelligence it doesn't seem like it Now we are going to go to another tool called Sandra or dot ayou as you 
+22:34
+favorites very well the truth is that very natural I didn't stop at a wedding Artificial intelligence that's why so many 
+22:40 
+record companies are so afraid that famous songs are appearing Because there are also other 
+22:46 
+artificial intelligence tools that allow you to clone any voice simply by giving you previous audios of that same voice what 
+22:54 
+you can do with yours but the fact is that really if you don't stop at 
+23:00 
+23:06 
+you will also imagine artificial intelligence that allows us to generate music music that does not exist and so 
+23:11 
+both totally free of copyright This is the web and 
+23:18 
+notice that it allows you to create unlimited music I am going to hit Play All this music is generated by 
+artificial intelligence 
+23:23 another 
+23:29 
+another by here I think you get the idea I'm going to go to the dashboard and I'm going to go to the 
+23:35 
+ads and trailers section that I want music to be generated for me, precisely for this I have uploaded the ad the plans from 
+23:42 
+video preview to be able to play the music and see how it looks with the ad, look at it now 
+23:48
+added the voice of struggling with broken or stuck zippers what I'm going to do is I'm going to keep trying music until I find one that I think fits well, the time has come to show you how the result  
+23:56
+of this advert has turned out 70% made with tools 
+24:03 
+Artificial intelligence the script purely with chachi pity the voice-over with another intelligence 
+24:09 
+artificial with shify the music with Sandra or period and the editing is the only thing 
+24:14 
+that I have done manually, so we could say 70% artificial intelligence and 30% human action there 
+24:22 
+we have Final Cut which is how I edit and we are going to hit Play you are tired of struggling with broken or stuck zippers 
+24:28 
+And you are thinking of getting rid of your favorite clothes this will fix any broken or stuck zippers for you 
+24:35
+adapts to all types of zippers people who travel consider it their salvation 
+24:41 
+Just remove the damaged one and easily put ours no need to sew or use 
+24:48 
+special tools slide it to fix it from boots 
+24:53 
+bags clothes in box in any Give New Life to your clothes and accessories 
+24:59 
+we ship for free throughout Spain Click on the button to get it And 
+25:04 
+take advantage of the 40% discount [Music]  
+25:10
+well I have done this last thing with canva this final as You see it is an advertisement with quite a dynamic rhythm that shows very 
+25:17
+well the product the solution that I tried and I think that it has been left with a sufficient rhythm in a way also 
+25:24 
+certainly as organic that does not seem like a very professional advertisement and it is the typical format that usually works very 
+25:29 
+well in the social networks especially on tiktok instagram Facebook Even at 
+25:34 
+YouTube could work very well I'll do a quick promotion on Facebook cats to see how everything turns out for us 
+25:40 
+what we've created with her there now let's see how it turned out the store that has taught us to look at it, 
+25:52 
+25:46
+The band has been The offer Well, all the description we have already seen this but well it looks quite good The offer 
+I think it can generate an increase in the ticket in the interesting cart let's see how I go to Facebook 
+Configuring Facebook Ads 
+25:57 
+cats I am going to create a new campaign and I have created a new advertising account I am going to target sales I am going to give it to 
+26:03 
+continue the configuration you have not seen how I have done it for the account but we would make the video too long and 
+26:09 
+neither I want that campaign fic fix Pro Cold Aliens 
+26:18 
+I'm going to give it Advanced Valle 2018 I'm going to put 50 dollars a day for potholes that 
+26:24
+It's what this campaign is going to spend I'm going to hit next I'm going to configure the adset I'm going to select the Pixel that I've already  
+26:31
+configured I'm going to give it the purchase event ready it has the campaign there and now we're going 
+26:37 
+to do the segmentation of the audience to whom we are going to show our ad age, location, gender and interest 
+26:43 
+I am going to go to Chachi of course and I am going to ask them what segmentation 
+26:50 
+would you recommend to configure the advertising of this product 
+properly 
+27:02 on Facebook 
+27:14 
+we see again made divide is giving us demography interests behavior geography and local 
+27:19 
+audiences in the case of using it is strong
+27:26  
+and there we Give one last recommendation, okay Don't worry, you won't have at 
+27:32
+account so I'm going to base myself on what you have indicated I'm going to an age range of 25 to 55 years 27:39 
+the 
+interests that you have put here okay I'm going to go back let's go to age I'm going to 
+27:46 
+start Putting 25 I'm going to leave it at more than 65 no I'm not going to put it at 55 it's 
+27:52 
+the same because I think there are people over 65 who might be interested in this product who are there more focused on the place 
+27:58 
+interests I'm going to sew Well I'm going to start with the sewing one 
+28:03 
+okay I have it set in English but sewing okay Yes I know wink That's what 
+28:09 
+I have configured in English on Facebook I select this option Okay it gives me a range of 5 million to 6 
+28: 16
+I am going to also the behavior that said to segment users who have demonstrated online purchase behavior 
+28:21 
+in the past, that is to say, well, sorry, there have been end-of-life shoppers and 
+28:33 
+ready, select that option, there we have it and see how it has been reduced the target audience from 5 million 
+28:40 
+to a million and a half I am going to change the languages ​​I want it to only be shown to people who speak Spanish 
+28:46 
+no Spain no Spanish we are all there and 
+28:51 
+placement I will to leave automatically Yes, I think that everything is configured correctly We are going to click on continue and 
+28:57
+we are going to configure the creative itself the ads pro is the Facebook page with which I will be showing the 
+29:37
+29:04 
+ad I'm going to create an ad and I'm going to load the multimedia content I'm going to give you that it's a video I'm going to Blood you 
+29:11 
+I'm going to load from this computer the ad that's already rendered I'm going to open it and I it starts to load 
+29:18 
+ok I'm going to continue or it's loading it's 70 
+29:23 
+Not 100% it's ready here we see the different placements we could adapt it by size replace or 
+29:30 
+replace depending on the placement for Store and put a vertical format, even so, we can leave it and it will adapt and 
+notice that there we can see a preview, you see, it will remain in Story, that is, it will not occupy 100% of the screen the rest 
+29:43
+will save it for text and display it without Story you are tired of struggling with broken or stuck zippers 
+29:49 
+And you are thinking of getting rid of your favorite clothes this will fix any broken or stuck zippers 
+29:55 
+while it finishes processing and ok Yes It is true that we have 
+30:02 
+some placements that do not support video so here we have to fill in the first and 
+30:08 
+text headline description We are going to open this logically from here I go 
+30:13 
+to Add the link of the ready product 
+I was saying there are some that you can see here like the one on Instagram 
+30:31 
+30:19
+and for the rest of things, everything is fine if I am not leaving anything for Locos 
+30:26 
+Well, we have to change the type of content, we have to put an image 
+30:37 
+because it does not allow video but it generates a kind of zoom in from the video that I have uploaded I am going to select this image I could change it myself or 
+30:43 
+I could upload a personalized one there it looks good I am going to save it I am going to do the same with the good one you can see the previous 
+30:49 
+the instagramer Explore homepage I am going to select that same image there it is 
+30:55 
+well, tell me what error when I process it, it will be fine, that is, it has been loaded correctly sometimes it fails 
+31:01 
+Facebook fails and the rest of the prizes is fine all this placements Instagram Stories 
+31:07 
+it is clean it looks good I like it I like how it looks
+31:13 
+with your action I'm going to leave the liener More, which is to know more 
+31:19 
+okay, the rest of the things are fine, let's go now to the first text and this description that we are going to put on the 
+Copy Facebook Ads 
+31:25 
+ad So I am going to ask chachipití for this we are going to put the following Chrome generates a striking and persuasive copy to accompany the 
+31:33 
+video ad on Facebook do not include very long paragraphs focus on the pain point that the product solves and in 
+31: 39 
+that and it goes quite well so that they do not reject the ad So I am not going to give it anything enter 
+31:53 
+31:44
+you can say and it goes quite well so they don't reject the ad So I'm not going to hit enter 
+and there it starts to generate it, it usually puts a lot of emojis When you ask for Facebook descriptions This is something 
+32:00 
+that later you can well you can delete yourself the emojis that you don't want are convenient 
+32:07 
+okay We already have it So I'm going to copy the description 
+32:12 
+There we are copy and I'm going to go to primary text and I'm going to paste it 
+32:18 
+I'm going to delete this this emoji this other emoji also out and this other one 
+32:27 
+now we are going to generate another description but with the variant that it has a 
+32:32 
+point of humor So I'm going to ask him to do the description again 
+32:41 
+the description But give him a point of humor there we are 
+32:48
+your zippers decided to retire before you did don't let them ruin your style with civics pro we put those 
+32:54 
+stubborn zippers in their place you're pretty good whether it's in your favorite jeans or that 
+32:59 
+lucky pack pack any zipper in the blink of an eye but so easy to use you'll wonder why you didn't 
+33:05 
+become a professional zipper repairman because sometimes life is too short to be fighting zippers i'll copy 
+33:12 
+Ok, I like it, I like it, it's there, it's copied, copy, let's go to Facebook, I'm going to paste this 
+33:19
+another description for the end, what I want is for Facebook to test among several descriptions. Let's see which one 
+33:24 
+works best, it will be testing and according to the metrics it will be showing, I insist on the one that converts the most that 
+33:31 
+has the most ctr impressions versus clicking with the client I'm going to get this 
+33:37 
+okay and now I'm going to go to Chachipitín and I'm going to ask him to generate 
+33:42 
+five gel Lines for the product generate 5g for the 
+33:51 
+product there look what we can Add up to 5 Let's hit enter 
+33:59 
+and goodbye to broken zippers forever with this revolutionary solution your zipper has broken discover 
+34:05
+trick that tailors don't want you to know this is brutal become the Hero of your clothes with this  
+34:11
+magical item the magic thing will make me squeak a little save your favorite clothes from your early retirement find out how here 
+34:17 
+like let's get started for the first one we are going to copy it 
+34:25 
+say Goodbye to the garments There we are going to copy it we are going to return to Facebook we are going to paste it 
+34:31 
+ready we are going to Add another 
+34:42 
+So that is not left for us to press publish and that's it 
+34:48 
+3 of 3 is being published, well, we only have to wait guys 
+34:55 
+We are going to give it about 24 hours or so and in 24 hours we will see how it goes 
+35:02 
+results are, check that it has been left, I am going to close This is processing it appears as inactive but it is processing at 
+35:09
+look at the announcement and as soon as they are reviewed, everyone will be reviewed 
+35:14 
+okay, we are going to give it 24 hours and see how good the results have been of a store created 70% 
+35:22 
+using artificial intelligence Well then about 24 hours have already passed 
+The results obtained 
+35:28 
+Well actually a little less we didn't reach 24 hours no 22 Now we 
+35:33 
+will be more or less good let me show you what the results have been let me down This is working This is part of it here 
+,  
+35:39
+I'm going to take it. There we are, okay Look at Facebook and I'm going to show you the 
+results .
+35:56 
+budget dollars that I put in total about 5,000 people with a reach and 5,000-odd 
+36:05 
+impressions Let's go to the shopify store 5 orders have entered, one I don't know why at risk 
+36:10 
+soups sometimes Make me come down I know this is high risk, it would have to be canceled 
+36:16 
+reports and we have billed about 94.75 euros 
+36:22 
+Well there you see the metrics 149 sessions I'm going to go to applications I'm going to go to 
+36:28 
+deserts and wait while it loads 
+36:34 
+We are going to open orders we are going to calculate how much the 
+36:47 
+36:39
+benefit tomorrow my products because I want to see the price of the product in the Express in a second but 
+Let's see wait there ok we will go to the packaging plus the 
+36:55 
+shipment 0.78 since it takes about 15 days to add it to the basket only to have the 
+37:00 
+point of reference that I don't remember of 2.88 is worth with the shipment 2.88 
+37:08 
+And we have a kit one kit two kits two kits one kit 
+37:14 
+is worth this If not the calculations add 7 7 units sold I'm going to stock 
+37:20 
+calculator 7 
+37:26 
+times 2.88 is equal to worth 20.16 is the cost 
+37:32 
+of the product I'm going to delete this we have billed 
+37:37 
+94.75 perfect worth 94.75 less
+37:44  
+20.16 which is the cost of the product and now minus the cost of advertising that we have spent at this time 41, 98 
+37:53
+okay I'm going here 41 point 98 
+37:59 
+is equal to 32.61 dollars of profit well we have 
+38:07 
+there euros and dollars mixed but good More or less yes about 30 euros of 
+38:12 
+profit gives a little less this without counting taxes but what I'm going to do is 
+38:18 
+it's not bad at all, I mean, surprisingly while I was working 
+38:23 
+today I have been seeing that sales were coming in and because normally we are always very 
+38:29 
+used to it to make the decisions of what product we sell And at least the decision of the product never 
+38:37
+I had left until now that I decided to make this video experiment in the hands of artificial intelligence, yes it is 
+38:42 
+true that the last decision was made by me But at least the product that the idea 
+38:47 
+really gave me and there Well, I found a product with interesting packaging and that seemed to meet 
+38:53 
+my standards that I've always had when looking for a product and starting to validate it with dropshipping AND 
+The real opportunity with AI 
+39:00 
+is that although it's true that today the AI ​​is not so powerful as to replace 100% of the work of the 
+39:07
+Humans have already seen it and it still requires a lot of human intervention Or at least what we have seen During 
+39:13  
+this video to be able to create an online business in about two to three years and I believe 
+39:19
+that if we keep moving so fast there could come a time when we simply give it a goal 
+39:25 
+style create a business and Commerce and 
+39:31 artificial intelligence would do it directly for you 
+in about two minutes because in the end it would be that there is also autopity but it would simply chain 
+39:38 
+processes and you really don't have to get excited it's not like This is going to be 
+39:45 
+brutal pressing a button you are going to have a business and Commerce guys that is 
+39:50
+It will become the worst time in history to start and do business when that happens the whole world will launch 
+39:58 
+40:38 
+their online stores And then you will be trying to compete with hundreds for not 
+40:04
+say millions of businesses created with artificial intelligence that I insist will be competing with each other you will see At the end 
+40:12 
+everything in life always has a small window of opportunity this has always happened and now it is happening at 
+40:19 
+the digital age therefore you must be very aware that there is this small 
+40:24 
+window of opportunity in time about two to three years where artificial intelligence is still not powerful enough to 
+40:30 
+create 10 million direct competitors against your business and it is something that you have to take advantage of and the 
+reality is that within this window that we now have there are many opportunities, think about 
+40:44 
+number of businesses that still have no idea how to use chachipití, for example, among many other 
+40:51 
+tools that are out there that are brutal and that could help them increase their productivity and their profits 
+40:57 
+So if you are really interested in taking advantage of all this technology and this train I have created 
+41:03 
+a training course on the opportunities that exist with artificial intelligence and how we are using it in 
+41:09 
+the agency today to get the most out of it squeeze all its bucket you will find this formation within 
+41:15
+mentorial an educational platform that seeks to offer new training every month to its members for a very  
+41:21
+low fee per month less in fact than what the gym costs you have to train the muscles but also the mind 
+41:27 
+and for me mentorial is the 41:34 gym than your portfolio, and not only will I be there, but incredible formations are coming 
+41:34 
+from the hand of people who are really having very good results since that is the 
+41:39 
+filter that puts Yes or yes mentorial so that you can be an instructor in there and that is that you have proven results and 
+41:47 
+demonstrated results with whatever it is that you teach. So I'm going to leave you a link right in the description of this video 
+41:52
+so you can take a look at it without any kind of commitment and if you're interested in entering, well, we'll meet inside the 
+41:58 
+Artificial Intelligence training where I really promise you that I'll make your head explode if this video freaks you out, that training will It's going to 
+42:06 
+hallucinate So just a little more, whatever it is, we'll see each other in training or in the next video I'll see you soon
